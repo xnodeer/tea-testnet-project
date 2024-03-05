@@ -1,7 +1,7 @@
 {
   "name": "tea-testnet-project",
   "version": "1.1.2",
-  "description": "tool for you to control the appearance of the main menu of the terminal",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "npm i tea-testnet-projec"
